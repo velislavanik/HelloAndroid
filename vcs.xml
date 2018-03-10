@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/velislavanik/BlackSeaTest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/velislavanik/ud839_Miwok" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Velis\AndroidStudioProjects" />
